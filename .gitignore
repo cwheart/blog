@@ -14,6 +14,7 @@
 config/database.yml
 config/unicorn.rb
 config/puma.rb
+config/deploy/production.rb
 
 # Ignore all logfiles and tempfiles.
 log/*
